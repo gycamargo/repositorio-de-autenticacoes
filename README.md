@@ -1,2 +1,2 @@
-# repositorio-de-autenticacoes
-Repositório de autenticações para realizar testes
+# Repositório de autenticações
+Repositório de autenticações para realizar testes.
